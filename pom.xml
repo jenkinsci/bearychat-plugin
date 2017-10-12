@@ -44,8 +44,8 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:ssh://git@github.com/jenkinsci/bearychat-plugin.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/bearychat-plugin.git</developerConnection>
+    <connection>scm:git:https://git@github.com/jenkinsci/bearychat-plugin.git</connection>
+    <developerConnection>scm:git:https://git@github.com/jenkinsci/bearychat-plugin.git</developerConnection>
     <url>https://github.com/jenkinsci/bearychat-plugin</url>
     <tag>HEAD</tag>
   </scm>
